@@ -11,3 +11,4 @@
 -[git remote](./Commands/Remote.md)
 -[git push](./Commands/PUSH.md)
 -[git pull](./Commands/Pull.md)
+-[git status](./Commands/Status.md)
